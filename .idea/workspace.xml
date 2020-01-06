@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="561c776a-b995-4a63-ba04-28892b2e1310" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Sass File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1W1X8EHZgqzwPROSSk0GADJNCTC" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="list.type.of.created.stylesheet" value="Sass" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="watcher.settings" />
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="561c776a-b995-4a63-ba04-28892b2e1310" name="Default Changelist" comment="" />
+      <created>1578317912560</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1578317912560</updated>
+      <workItem from="1578317914622" duration="2895000" />
+      <workItem from="1578321930794" duration="3771000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="252" y="174" width="908" height="445" key="EditFileWatcherDialog" timestamp="1578318001122">
+      <screen x="57" y="27" width="1309" height="741" />
+    </state>
+    <state x="252" y="174" width="908" height="445" key="EditFileWatcherDialog/57.27.1309.741@57.27.1309.741" timestamp="1578318001122" />
+    <state x="200" y="31" key="SettingsEditor" timestamp="1578317995863">
+      <screen x="57" y="27" width="1309" height="741" />
+    </state>
+    <state x="200" y="31" key="SettingsEditor/57.27.1309.741@57.27.1309.741" timestamp="1578317995862" />
+    <state width="498" height="446" key="SwitcherDM" timestamp="1578324030442">
+      <screen x="57" y="27" width="1309" height="741" />
+    </state>
+    <state width="498" height="446" key="SwitcherDM/57.27.1309.741@57.27.1309.741" timestamp="1578324030442" />
+    <state x="367" y="224" key="com.intellij.ide.util.TipDialog" timestamp="1578321939509">
+      <screen x="57" y="27" width="1309" height="741" />
+    </state>
+    <state x="367" y="224" key="com.intellij.ide.util.TipDialog/57.27.1309.741@57.27.1309.741" timestamp="1578321939509" />
+  </component>
+</project>

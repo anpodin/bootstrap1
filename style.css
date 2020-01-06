@@ -1,0 +1,41 @@
+* {
+  margin: 0 auto;
+  color: white;
+}
+
+.center {
+  padding: 0 calc(50% - 570px);
+}
+
+.container {
+  background-color: #fbb497;
+  height: 600px;
+  display: flex;
+}
+.container_img {
+  padding-left: 50px;
+  height: 500px;
+}
+.container_topMenu {
+  color: white;
+  text-decoration: none;
+}
+
+.button {
+  border-radius: 20px;
+  padding: 15px;
+  text-decoration: none;
+  background-color: white;
+  color: #fbb497;
+}
+
+.footer {
+  height: 100px;
+  background-color: gray;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  color: darkgray;
+}
+
+/*# sourceMappingURL=style.css.map */
